@@ -15,3 +15,4 @@ using namespace std
   A.back;
   return 0;
   }
+#as well as
